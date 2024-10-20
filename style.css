@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:darkgrey;
+}
+h4{
+    margin-top: 10%;
+    margin-left: 10%;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+}
+#text{
+    width: 550px;
+    height: 250px;
+}
